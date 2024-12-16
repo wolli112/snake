@@ -1,4 +1,4 @@
-Einfaches Snake Spiel
+# Einfaches Snake Spiel
 
 Viel Spaß beim spielen oder erweitern!
 
